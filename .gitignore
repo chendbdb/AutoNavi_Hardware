@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+**/local.properties
+*.iml
+*.apk
+*.aab
+*.keystore
+amap-auto-9.1-minimal-integrated-ble/work/
+*.idsig
+
+# Arduino compilation cache
+.arduino-build*/
+**/.pio/
